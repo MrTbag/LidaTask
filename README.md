@@ -1,5 +1,7 @@
 ROCK, PAPER, SCISSORS!
 
+A project by Mohammad Mahdi Akbar from Sharif University of Tehran
+
 This project is programmed in java 17 using intellij IDEA
 
 The application is implemented with the help of MVC architecture
